@@ -5,11 +5,11 @@ import com.hp.core.dao.GenericDao;
 
 /**
  * 
- * @author Zhefang Chen
+ * @author liqiang 
  *
  */
 public interface DbConfigDao extends GenericDao<DbConfig, Long> {
 
-	DbConfig getDbConfigByKey(String key);
+	DbConfig  getDbConfigByKey(String keystr);
 }
  
