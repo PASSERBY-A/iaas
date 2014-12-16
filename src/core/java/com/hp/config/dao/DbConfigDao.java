@@ -12,3 +12,4 @@ public interface DbConfigDao extends GenericDao<DbConfig, Long> {
 
 	DbConfig getDbConfigByKey(String key);
 }
+ 
