@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/libs/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/antisamy-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/aspectjrt-1.7.4.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/aspectjweaver-1.7.4.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/avalon-framework-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/avro-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/batik-css-1.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/batik-ext-1.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/batik-util-1.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cloudserver-1.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-fileupload-1.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/core-1.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-api-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-bindings-soap-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-bindings-xml-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-core-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-databinding-jaxb-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-frontend-jaxrs-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-frontend-jaxws-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-frontend-simple-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-transports-http-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-ws-addr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/cxf-rt-ws-policy-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/ehcache-core-2.6.6.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/esapi-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/geronimo-javamail_1.4_spec-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/gson-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-core-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-ehcache-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-search-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-search-analyzers-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-search-engine-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hibernate-search-orm-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/hpvm-1.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/javax.ws.rs-api-2.0-m10.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jaxb-api-2.2.11.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jaxen-1.1-beta-8.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jcl-over-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jersey-client-1.18.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jersey-core-1.18.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jersey-json-1.18.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jersey-server-1.18.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jersey-servlet-1.18.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jpa-api-2.0-cr-1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/logkit-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-analyzers-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-grouping-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-highlighter-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-memory-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-misc-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-smartcn-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-spatial-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-spellchecker-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/lucene-stempel-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/neethi-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/nekohtml-1.9.12.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/ognl-3.0.6.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/quartz-2.2.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/quartz-all-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/reflections-0.9.8.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/snappy-java-1.0.1-rc3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/solr-analysis-extras-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/solr-commons-csv-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/solr-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/solr-solrj-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-aop-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-aspects-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-beans-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-context-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-context-support-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-core-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-expression-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-jdbc-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-ldap-core-1.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-orm-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-security-config-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-security-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-security-ldap-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-tx-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/spring-web-3.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/struts2-core-2.3.16.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/struts2-spring-plugin-2.3.16.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/woodstox-core-asl-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xmlschema-core-2.0.3.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xom-1.1.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xstream-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/libs/lib/xwork-core-2.3.16.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

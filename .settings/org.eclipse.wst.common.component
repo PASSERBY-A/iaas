@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="iaas">
+        <wb-resource deploy-path="/" source-path="/web" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/core/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/config/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/resources/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/config/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/hpvm/config"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/cloudserver/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/hpvm/java"/>
+        <property name="context-root" value="iaas"/>
+        <property name="java-output-path" value="/iaas/build/classes"/>
+    </wb-module>
+</project-modules>
